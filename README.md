@@ -1,1 +1,1 @@
-# mygameX0
+# equis_game
